@@ -49,27 +49,33 @@
 
 //Give each of the paragraph a random text color (different for each one) UNLESS it has a class then leave it as it is.
     // Select all paragraph elements
-    let paragraphs = document.querySelectorAll('p');
-
+        /*
+        let paragraphs = document.querySelectorAll('p');
+        */
     // Function to generate a random color
-    function getRandomColor() {
-        let letters = '0123456789ABCDEF';
-        let color = '#';
-        for (var i = 0; i < 6; i++) {
-            color += letters[Math.floor(Math.random() * 16)];
+        /*
+        function getRandomColor() {
+            let letters = '0123456789ABCDEF';
+            let color = '#';
+            for (var i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
         }
-        return color;
-    }
-
+        */
     // Loop through each paragraph
-    paragraphs.forEach(function(paragraph) {
+        /*
+        paragraphs.forEach(function(paragraph) {
+        */
         // Check if the paragraph has a class
+        /*
         if (paragraph.classList.length === 0) {
             // Generate a random text color
             let randomColor = getRandomColor();
             
             // Apply the random color to the paragraph
             paragraph.style.color = randomColor;
-        }
-    });
+            }
+        });
+        */
 

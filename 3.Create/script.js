@@ -101,7 +101,7 @@
 */
 //Find a way so that everytime you load the page the order of the elements changes! 
 // Array of learner names
-    let learners = ["Elodie","Mathias","Lucas","Rosalie","Lidwine","Stephane","Tim","Virginie","Justine_L","Carole","Thomas","Antoine","Kimi","Valentin","Elisabeth","Pierre","Justin","Robin","Layla","Alexandre_Vens","Alexandre_VDW","Bastien"];
+    let learners = ["Elodie","Mathias","Lucas","Rosalie","Lidwine","Stephane","Tim","Virginie","Justine","Carole","Thomas","Antoine","Kimi","Valentin","Elisabeth","Pierre","Justin","Robin","Layla","Alexandre","Bastien"];
 
 // Function to generate a random RGB color
     function getRandomColor() {
