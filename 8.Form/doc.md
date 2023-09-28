@@ -75,7 +75,7 @@ pwdcfinput.addEventListener('keyup', function() {
 });
 ```
 
-## Finally, use a change listener on the <select> field to toggle a dark mode on the whole page. For ease of use, we'll say that the dark mode is just turning the background black and the text white.
+## Finally, use a change listener on the select field to toggle a dark mode on the whole page. For ease of use, we'll say that the dark mode is just turning the background black and the text white.
 
 ```
 // Get references to the select element and the body element
