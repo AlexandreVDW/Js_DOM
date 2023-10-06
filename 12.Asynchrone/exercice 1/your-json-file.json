@@ -1,0 +1,27 @@
+[
+  {
+    "nom": "Thrall",
+    "univers": "Warcraft",
+    "roles" : "Guerrier"
+  },
+  {
+    "nom": "Sonya",
+    "univers": "Diablo",
+    "roles" : "Guerrier"
+  },
+  {
+    "nom": "Deckard",
+    "univers": "Diablo",
+    "roles" : "Healer"
+  },
+  {
+    "nom": "Artanis",
+    "univers": "Starcraft",
+    "roles" : "Guerrier"
+  },
+  {
+    "nom": "Chen",
+    "univers": "Warcraft",
+    "roles" : "Tank"
+  }
+]
